@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts-ts",
+  "name": "react-scripts-ts-monorepo-kimak",
   "version": "2.15.1",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "wmonk/create-react-app",
+  "repository": "kimak/create-react-app-typescript",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/wmonk/create-react-app/issues"
+    "url": "https://github.com/kimak/create-react-app-typescript/issues"
   },
   "files": [
     "bin",

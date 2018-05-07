@@ -1,5 +1,7 @@
 # react-scripts
 
+:warning: Hotfix package for monorepo usage with webpack ts-loader include option disabled
+
 This package includes scripts and configuration used by [Create React App](https://github.com/facebookincubator/create-react-app).<br>
 Please refer to its documentation:
 

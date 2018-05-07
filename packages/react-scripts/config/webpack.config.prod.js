@@ -176,7 +176,7 @@ module.exports = {
           // Compile .tsx?
           {
             test: /\.(ts|tsx)$/,
-            include: paths.appSrc,
+            //include: paths.appSrc, //fix ts-loader for monorepo
             use: [
               {
                 loader: require.resolve('ts-loader'),
