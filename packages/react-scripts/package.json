@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-ts-monorepo-kimak",
-  "version": "2.15.1",
+  "version": "2.15.2",
   "description": "Configuration and scripts for Create React App.",
   "repository": "kimak/create-react-app-typescript",
   "license": "BSD-3-Clause",
